@@ -1,4 +1,4 @@
 # KMeansClustering
 
-A programm that visualizes the k-means-clustering algorithm in python. Hallo
+A programm that visualizes the k-means-clustering algorithm in python.
 
